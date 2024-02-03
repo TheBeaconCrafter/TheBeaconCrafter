@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBeaconCrafter
-- 👀 I’m interested in everything that has to do with electronics!
-- 🌱 I’m currently learning the Java programming language.
+- 👀 I’m interested in everything that has to do with coding!
+- 🌱 I’m currently learning mobile app development with Flutter.
 - 📫 How to reach me: Twitter @beaconcrafter
 
 <!---
