@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebeaconcrafter" alt="thebeaconcrafter" /></a> </p>
 
-- 🔭 I’m currently working on [TurboGuessr](https://github.com/TheBeaconCrafter/TurboGuessr)
+- 🔭 I’m currently working on [TurboGuessr](https://go.bcnlab.org/tg)
 
 - 👨‍💻 All of my projects are available at [https://bcnlab.org](https://bcnlab.org)
 
