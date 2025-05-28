@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Wackler</h1>
-<h2>💫 About Me:</h2>🔭 I’m currently working on Globesnap<br><br>👨‍💻 Personal site: https://bcnz.dev<br><br>💻 Business site: https://bcnlab.org<br><br>📫 How to reach me vincent@bcnz.dev<br>
+<h2>💫 About Me:</h2>🔭 I’m currently working on Globesnap<br><br>👨‍💻 Personal site: https://bcnz.dev<br>💻 Business site: https://bcnlab.org<br><br>📫 How to reach me vincent@bcnz.dev<br>
 
 
 ## 🌐 Socials:
